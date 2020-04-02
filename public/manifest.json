@@ -1,0 +1,14 @@
+{
+  "short_name": "PureCloud Auto-Recorder",
+  "name": "PureCloud Auto-Recorder",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "32x32"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
